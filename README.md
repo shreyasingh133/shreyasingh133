@@ -99,7 +99,7 @@ I aspire to begin my career as a Software Engineer or AI/ML Engineer, where I ca
 
 * 💼 LinkedIn: linkedin.com/in/shreyasingh2303
 <!-- 📧 Email: *(Add your professional email)*-->
-,!--* 🌐 Portfolio: *(Add when available)*-->
+<!--* 🌐 Portfolio: *(Add when available)*-->
 
 ---
 
