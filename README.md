@@ -18,7 +18,6 @@ Currently, I'm focused on building AI-powered applications, Django-based systems
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 🧠 Generative AI & Large Language Models (Learning)
-* 🌐 Full-Stack Web Development
 * 🐍 Python & Django
 * ⚛ React.js & MERN Stack
 * 📊 Data Analytics & Data Visualization
@@ -55,15 +54,15 @@ Python • Java • C++ • JavaScript • SQL • HTML • CSS
 
 ### Frameworks
 
-Django • React • Node.js • Bootstrap
+Django • React • Node.js 
 
 ### Databases
 
-MySQL • MongoDB • SQLite
+MySQL 
 
 ### Tools
 
-Git • GitHub • VS Code • Postman
+Git • GitHub • VS Code 
 
 ---
 
@@ -91,7 +90,6 @@ I aspire to begin my career as a Software Engineer or AI/ML Engineer, where I ca
 * Contribute to open-source projects
 * Strengthen Data Structures & Algorithms
 * Learn AWS and Docker
-* Build an AI-powered portfolio
 
 ---
 
